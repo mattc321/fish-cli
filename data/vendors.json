@@ -1,0 +1,211 @@
+{
+  "vendors": {
+    "ARCO": {
+      "id": 4,
+      "name": "ARCO"
+    },
+    "Ace Hardware": {
+      "id": 5,
+      "name": "Ace Hardware"
+    },
+    "Airbnb": {
+      "id": 6,
+      "name": "Airbnb"
+    },
+    "Amazon": {
+      "id": 7,
+      "name": "Amazon"
+    },
+    "Anderson Law": {
+      "id": 8,
+      "name": "Anderson Law"
+    },
+    "Anthropic (Claude)": {
+      "id": 9,
+      "name": "Anthropic (Claude)"
+    },
+    "Ashland Mobile": {
+      "id": 10,
+      "name": "Ashland Mobile"
+    },
+    "Best Buy": {
+      "id": 11,
+      "name": "Best Buy"
+    },
+    "DigitalOcean": {
+      "id": 12,
+      "name": "DigitalOcean"
+    },
+    "Discord / Mitch Ray": {
+      "id": 13,
+      "name": "Discord / Mitch Ray"
+    },
+    "Enterprise Rent-A-Car": {
+      "id": 14,
+      "name": "Enterprise Rent-A-Car"
+    },
+    "Eugene Chevron": {
+      "id": 15,
+      "name": "Eugene Chevron"
+    },
+    "EventHelper": {
+      "id": 16,
+      "name": "EventHelper"
+    },
+    "Fiverr": {
+      "id": 17,
+      "name": "Fiverr"
+    },
+    "GoDaddy": {
+      "id": 18,
+      "name": "GoDaddy"
+    },
+    "Goodstack": {
+      "id": 19,
+      "name": "Goodstack"
+    },
+    "Harbor Freight": {
+      "id": 20,
+      "name": "Harbor Freight"
+    },
+    "Harland Clarke": {
+      "id": 21,
+      "name": "Harland Clarke"
+    },
+    "ITU Online Training": {
+      "id": 22,
+      "name": "ITU Online Training"
+    },
+    "Jess Langpap": {
+      "id": 23,
+      "name": "Jess Langpap"
+    },
+    "JetBrains": {
+      "id": 24,
+      "name": "JetBrains"
+    },
+    "Mail Stop": {
+      "id": 25,
+      "name": "Mail Stop"
+    },
+    "Matt Campbell": {
+      "id": 26,
+      "name": "Matt Campbell"
+    },
+    "Medford Airport": {
+      "id": 27,
+      "name": "Medford Airport"
+    },
+    "Meta (Facebook)": {
+      "id": 28,
+      "name": "Meta (Facebook)"
+    },
+    "Mt. Ashland Foundation": {
+      "id": 29,
+      "name": "Mt. Ashland Foundation"
+    },
+    "OpenAI": {
+      "id": 30,
+      "name": "OpenAI"
+    },
+    "Oregon Secretary of State": {
+      "id": 31,
+      "name": "Oregon Secretary of State"
+    },
+    "Pilot Flying J": {
+      "id": 32,
+      "name": "Pilot Flying J"
+    },
+    "Replit": {
+      "id": 33,
+      "name": "Replit"
+    },
+    "SmallPDF": {
+      "id": 34,
+      "name": "SmallPDF"
+    },
+    "Stripe": {
+      "id": 35,
+      "name": "Stripe"
+    },
+    "TradingView": {
+      "id": 36,
+      "name": "TradingView"
+    },
+    "Verizon": {
+      "id": 37,
+      "name": "Verizon"
+    },
+    "Walmart": {
+      "id": 38,
+      "name": "Walmart"
+    },
+    "Wells Fargo": {
+      "id": 39,
+      "name": "Wells Fargo"
+    },
+    "Zach Pistole": {
+      "id": 40,
+      "name": "Zach Pistole"
+    },
+    "Lana Campbell": {
+      "id": 41,
+      "name": "Lana Campbell"
+    },
+    "Oregon DOJ": {
+      "id": 42,
+      "name": "Oregon DOJ"
+    },
+    "Google Workspace": {
+      "id": 43,
+      "name": "Google Workspace"
+    }
+  },
+  "alias_map": {
+    "ace hardware": "Ace Hardware",
+    "airbnb": "Airbnb",
+    "amazon": "Amazon",
+    "anderson": "Anderson Law",
+    "arco?": "ARCO",
+    "ashland mobile": "Ashland Mobile",
+    "best buy": "Best Buy",
+    "claude": "Anthropic (Claude)",
+    "claud": "Anthropic (Claude)",
+    "digital ocean": "DigitalOcean",
+    "discord mitch ray": "Discord / Mitch Ray",
+    "mitchray ta": "Discord / Mitch Ray",
+    "enterprise rentacar": "Enterprise Rent-A-Car",
+    "eugene chevron": "Eugene Chevron",
+    "eventhelper": "EventHelper",
+    "facebook vendor": "Meta (Facebook)",
+    "fiverr": "Fiverr",
+    "godaddy": "GoDaddy",
+    "goodstack": "Goodstack",
+    "harbor freight": "Harbor Freight",
+    "harlond clarke": "Harland Clarke",
+    "itu": "ITU Online Training",
+    "itu training": "ITU Online Training",
+    "itu online": "ITU Online Training",
+    "jess langpap": "Jess Langpap",
+    "jetbrains": "JetBrains",
+    "mail stop": "Mail Stop",
+    "mailstop": "Mail Stop",
+    "matt campbell": "Matt Campbell",
+    "matt mileage or": "Matt Campbell",
+    "medford airport": "Medford Airport",
+    "mt ashland foundation": "Mt. Ashland Foundation",
+    "or secretary of state": "Oregon Secretary of State",
+    "oregon sos": "Oregon Secretary of State",
+    "openai": "OpenAI",
+    "chatgpt": "OpenAI",
+    "pilot": "Pilot Flying J",
+    "replit": "Replit",
+    "smalpdf": "SmallPDF",
+    "stripe": "Stripe",
+    "trading view": "TradingView",
+    "verizon": "Verizon",
+    "walmart": "Walmart",
+    "wells fargo": "Wells Fargo",
+    "zach pistole": "Zach Pistole"
+  }
+}
