@@ -77,12 +77,3 @@ python3 fish.py payment-status --org 1 100,101,102
 # Pull the activities report
 python3 fish.py reports activities --org 1 --fy 1
 ```
-
-## data/ folder
-
-Reference data cached locally:
-
-- `businesses.json` — business IDs and names
-- `expense_subcategories.json` — expense subcategory IDs and default accounts
-- `fiscal_years.json` — fiscal year IDs and date ranges
-- `vendors.json` — vendor IDs with alias map for TSV imports
