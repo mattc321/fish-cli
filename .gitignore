@@ -1,3 +1,4 @@
 credentials.env
+data/
 __pycache__/
 *.pyc
